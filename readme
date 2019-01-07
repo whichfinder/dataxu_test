@@ -1,0 +1,5 @@
+1. run account.py in terminal with command: "python test.py"
+2. specify name of file to process
+3. check application output
+
+transaction.txt is file for testing
